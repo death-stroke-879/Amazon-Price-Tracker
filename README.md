@@ -1,10 +1,10 @@
 # Amazon-Price-Tracker
 
 # Python Libs required:
-pip install requests
-pip install bs4
-pip install smtplib
+pip install requests <br />
+pip install bs4 <br />
+pip install smtplib <br />
 
-requests 
-bs4
-smtplib
+requests <br />
+bs4 <br />
+smtplib <br />
